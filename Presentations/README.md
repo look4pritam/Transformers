@@ -18,3 +18,8 @@
   
 ## Long Short Term Memory 
 - LSTM  
+
+## Transformers
+- Attention
+- Self Attention
+   
