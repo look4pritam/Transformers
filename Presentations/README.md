@@ -11,3 +11,6 @@
   - CBOW - Continuous Bag of Words
   - Skip Gram
   
+## Recurrent Neural Network
+- RNN
+  
