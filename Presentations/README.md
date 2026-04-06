@@ -13,6 +13,7 @@
   
 ## Recurrent Neural Network
 - RNN
+- Backpropagation Through Time
 - Vanishing Gradient
   
 ## Long Short Term Memory 
