@@ -13,7 +13,7 @@
   
 ## Recurrent Neural Network
 - RNN
+- Vanishing Gradient
   
 ## Long Short Term Memory 
-- LSTM
-  
+- LSTM  
