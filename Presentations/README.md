@@ -24,3 +24,6 @@
 - Self Attention
 - Multi Head Attention
 - Query, Key, Value
+- Encoder and Decoder
+- Feed Forward Neural Network
+- Positional Encoding
