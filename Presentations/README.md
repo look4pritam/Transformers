@@ -14,3 +14,6 @@
 ## Recurrent Neural Network
 - RNN
   
+## Long Short Term Memory 
+- LSTM
+  
