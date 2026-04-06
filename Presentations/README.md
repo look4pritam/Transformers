@@ -8,5 +8,6 @@
 ## Word embeddings
 - One hot encoding
 - Word2vec
-  - CBOW - Continuous Bag of Words 
+  - CBOW - Continuous Bag of Words
+  - Skip gram
   
