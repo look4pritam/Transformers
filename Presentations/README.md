@@ -27,3 +27,5 @@
 - Encoder and Decoder
 - Feed Forward Neural Network
 - Positional Encoding
+- Label Smoothing
+  
